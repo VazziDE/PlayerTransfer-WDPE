@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace Vazzi\PlayerTransferWDPE;
 
 use pocketmine\Player;
+use Vazzi\PlayerTransferWDPE\TransferAPI;
 use pocketmine\plugin\PluginBase;
 
 class Main extends PluginBase{
