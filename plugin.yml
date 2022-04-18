@@ -1,0 +1,9 @@
+name: PlayerTransferWDPE
+version: 2.0.0
+main: Vazzi\PlayerTransferWDPE\Main
+api: 4.0.0
+author: Vazzi
+permissions:
+  wtransfer.use:
+    description: Allow to use WTransfer Command
+    default: op
