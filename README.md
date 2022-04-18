@@ -1,5 +1,5 @@
 # PlayerTransfer-WDPE
-<h3> PlayerTransferWDPE is a PocketMine-MP Plugin to transfer player via WaterDogPE Proxy. </h3>
+<h3> PlayerTransferWDPE is a PocketMine-MP API 4 Plugin to transfer player via WaterDogPE Proxy. </h3>
 
 You can use it in-game per command to transfer player or yourself with the following command:
 
