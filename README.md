@@ -1,5 +1,5 @@
 # PlayerTransfer-WDPE
-<h3> PlayerTransferWDPE is a PocketMine-MP API 4 Plugin to transfer player via WaterDogPE Proxy. </h3>
+<h3> PlayerTransferWDPE is a PocketMine-MP API 3 Plugin to transfer player via WaterDogPE Proxy. </h3>
 
 <h1>API 3</h1>
 
